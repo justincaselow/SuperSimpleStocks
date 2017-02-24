@@ -39,7 +39,7 @@
         /*
          * Please note my interpretation of how to calculate the "GBCE All Share Index"
          * is to use the prices from all the trades given the sample data in Table 1 didn't appear to
-         * elude that stocks had a "Price" property
+         * suggest that stocks had a "Price" property
          */
         public double CalculateGbceAllShareIndex()
         {
